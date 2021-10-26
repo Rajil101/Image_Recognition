@@ -15,5 +15,23 @@ Made using-
 
 •also obtained detection process on multiple face detection in single file(image).
 
+**Detections**
+
+•color image
+
+![](images/Screenshot_color.png)
+
+•grascale image
+
+![](images/Screenshot_grayscale.png)
+
+•face detection
+
+![](images/Screenshot_face.png)
+
+•eye detection
+
+![](images/Screenshot_image.png)
+
 *You need to open (.ipynp) file in google colab ,and download other four essential files to make changes and detect the person's faces and eyes.
 
