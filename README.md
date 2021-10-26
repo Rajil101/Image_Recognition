@@ -13,7 +13,7 @@ Made using-
 
 •converted color image into grayscale for further feature detection, 
 
-•also obtained detection process on multiple face detection in single file(image).
+•also obtained detection process on multiple face detection in single file(image) in google colab.
 
 **Detections**
 
